@@ -256,6 +256,48 @@ Keep it short. This is an internal ops doc, not a stakeholder report.
 
 ---
 
+### 8. Generate program metrics report
+
+When the user asks for a program metrics summary or wants to track performance over time:
+
+Ask for:
+- Cohort date(s) to report on
+- Registration count vs. attendance count
+- Organizations represented
+- Any NPS or satisfaction scores collected
+- Notable qualitative feedback
+
+Produce a metrics report covering:
+
+**Attendance metrics**
+- Invited → registered → attended funnel (with conversion rates)
+- Show rate by cohort and rolling average
+- Organizations represented and partner tier breakdown
+
+**Engagement metrics**
+- Session completion rate (if tracked)
+- Post-event survey response rate and average score
+- Most/least attended sessions (if multi-track)
+
+**Operational metrics**
+- Day-of issues logged (and whether they were preventable)
+- Communications open/click rates (if tracked via email tool)
+- Runbook gaps identified
+
+**Cohort-over-cohort trends**
+| Metric | Previous cohort | This cohort | Trend |
+|--------|----------------|-------------|-------|
+| Registered | | | |
+| Attended | | | |
+| Show rate | | | |
+| Orgs represented | | | |
+| Satisfaction score | | | |
+
+**Recommended actions for next cohort**
+- [based on the data above]
+
+---
+
 ## OUTPUT STANDARDS
 
 - Partner-facing communications: no jargon, no hype, no filler. State what it is, when it is, what they need to do.
