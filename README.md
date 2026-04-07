@@ -44,7 +44,7 @@ I built this skill as part of applying for an Events Partner Program Coordinator
 
 This is what that looks like in practice. Instead of describing how I'd systematize the program, I built the system.
 
-I've been building with Claude Code for the past year — operational skills like this one and tools that automate repeatable workflows. The [anti-slop skill](https://github.com/dianagolduber/anti-slop) in my profile is another example: a Claude Code skill that removes AI writing patterns from prose output.
+I've been building with Claude Code for the past year — operational skills like this one and tools that automate repeatable workflows.
 
 ## About the skill format
 
